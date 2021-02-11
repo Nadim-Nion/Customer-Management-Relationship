@@ -1,0 +1,19 @@
+Requirements for CMR:
+====================
+
+1. Our website must be user friendly
+2. We have to sort out our product at category wise. So that customer find their desired products so easily
+3. Every information related products must be written in our website sothat customer can know the information what they want to know 
+4. Customer can give feedback to the product by sending reviews. As a result , seller can analyse the data about his / her products by seeing the customer's review.
+
+ 
+
+Credit: 
+
+Nadim Mahmud Nion  ID: 181-15-1746
+
+
+Noor Afia Shammi   ID: 181-15-1994
+
+
+Monisha Biswas     ID: 181-15-1928
